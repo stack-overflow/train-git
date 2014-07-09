@@ -1,1 +1,4 @@
 The new file of the world!
+
+This is cool new line!
+Wow, that was close!
